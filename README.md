@@ -1,0 +1,5 @@
+-Name: Noah
+-Code: LUA (using Roblox Studio)
+-New to coding
+-Learning code
+-Noob lol
